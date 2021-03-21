@@ -9,4 +9,4 @@ Gra posiada 5 klas:
 
 Program posiada również wiele funkcji pomocniczych, np. obsługa klocków (strzałki). Jednak są one na tyle intuicyjne i oczywiste że pominąlem wspominanie o takich rzeczach.
 
-
+![tetris](https://github.com/forceindia712/Tetris/blob/main/tetris.png)
